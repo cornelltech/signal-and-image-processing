@@ -17,6 +17,6 @@ The course will include three programming assignments, due approximately once pe
 
 
 ### Schedule of lectures
-Lectures are here: [[Lectures]]
+Lecture schedule: https://docs.google.com/spreadsheet/ccc?key=0AmXPvU05CMyVdFZIa2VIM1BjaU4wZ0o5M2I3TmxKaUE#gid=0
 
 
