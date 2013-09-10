@@ -19,4 +19,6 @@ The course will include three programming assignments, due approximately once pe
 ### Schedule of lectures
 Lecture schedule: https://docs.google.com/spreadsheet/ccc?key=0AmXPvU05CMyVdFZIa2VIM1BjaU4wZ0o5M2I3TmxKaUE#gid=0
 
-
+### Surveys
+Because this is a new course, periodically we'll solicit surveys from the students to get a sense of what we can do to improve the course. Please fill them out promptly!
+Survey 1: http://www.surveymonkey.com/s/FVTGX9P
