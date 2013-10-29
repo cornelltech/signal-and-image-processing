@@ -13,7 +13,7 @@ Prediction, smoothing and filtering of 1D signals, with an emphasis on data from
 * TA: Alex Fix, afix@cs.cornell.edu
 
 ### Grading and workload
-The course will include three programming assignments, due approximately once per month. Currently the due dates are October 3, October 30 and November 25. There are no exams but will be occasional short in-class quizzes.
+The course will include three programming assignments, due approximately once per month. Currently the due dates are October 3, November 7 and December 6. There are no exams but will be occasional short in-class quizzes.
 
 
 ### Schedule of lectures
