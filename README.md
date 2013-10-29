@@ -22,6 +22,7 @@ Lecture schedule: https://docs.google.com/spreadsheet/ccc?key=0AmXPvU05CMyVdFZIa
 ### Surveys
 Because this is a new course, periodically we'll solicit surveys from the students to get a sense of what we can do to improve the course. Please fill them out promptly!
 
-- Survey 1 (overall class feedback): http://www.surveymonkey.com/s/FVTGX9P
+- Survey 1 (class feedback #1): http://www.surveymonkey.com/s/FVTGX9P
 - Survey 2 (possible guest lectures): http://www.surveymonkey.com/s/9T2K2QB
-- Survey 3 (overall class feedback, October 8): http://www.surveymonkey.com/s/NXXDS5M
+- Survey 3 (class feedback #2, October 8): http://www.surveymonkey.com/s/NXXDS5M
+- Survey 4 (class feedback #3, October 29): https://www.surveymonkey.com/s/LWVKS2W
