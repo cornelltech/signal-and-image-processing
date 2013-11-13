@@ -1,4 +1,4 @@
-CS5660 Signal and Image Procesing
+CS5660 Signal and Image Processing
 ===========================
 
 
